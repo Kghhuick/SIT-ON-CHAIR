@@ -1,4 +1,4 @@
-                                                     # SIT-ON-CHAI
+                                                     #SIT-ON-CHAIR
                                                 
                                                   
                                       My first project from polish bootcamp called Coders Lab.
