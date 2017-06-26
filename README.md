@@ -1,11 +1,11 @@
 # SIT-ON-CHAIR
 
-## Basic Website without responsiveness
+## Basic Website Without Responsiveness
 
 ### Technologies & Features :
 
-*HTML5
-*CSS3
-*JAVASCRIPT
+* HTML5
+* CSS3
+* JAVASCRIPT
 
-https://kghhuick.github.io/SIT-ON-CHAIR/ 
+https://kghhuick.github.io/SIT-ON-CHAIR/
