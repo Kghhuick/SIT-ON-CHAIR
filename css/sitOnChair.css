@@ -775,3 +775,21 @@ margin-left: 5px;
   font-size: 30px;
   color: white;
  }
+
+
+footer .container div {
+  float:left;
+  width: 50%;
+}
+
+ .footer_div{
+   margin-top: -10px;
+   text-align: center;
+   display: inline-block;
+ }
+ .footer_div span{
+   display: inline-block;
+   margin-left: 10px;
+   margin-right: -82px;
+   font-size: 20px;
+ }  
